@@ -1,0 +1,52 @@
+List <Map> festivalList=[
+  {"images":"assets/images/diwali/diwali.jpg","name":"Diwali"},
+  {"images":"assets/images/ganeshChaturthi/ganesh.jpg","name":"Ganesh Chaturthi"},
+  {"images":"assets/images/holi/holi.jpg","name":"Holi"},
+  {"images":"assets/images/independence/independence.jpg","name":"Independence Day"},
+  {"images":"assets/images/makarsankranti/makarsankranti.jpg","name":"Makarsankranti"},
+  {"images":"assets/images/navratri/navratri.jpg","name":"Navratri"},
+];
+List <List> festival=[
+  [
+    "assets/images/diwali/diwali.jpg",
+    "assets/images/diwali/diwali2.jpg",
+    "assets/images/diwali/diwali3.jpg",
+    "assets/images/diwali/diwali4.jpg",
+    "assets/images/diwali/diwali5.jpg"
+  ],
+  [
+    "assets/images/ganeshChaturthi/ganesh.jpg",
+    "assets/images/ganeshChaturthi/ganesh2.jpg",
+    "assets/images/ganeshChaturthi/ganesh3.jpg",
+    "assets/images/ganeshChaturthi/ganesh4.jpg",
+    "assets/images/ganeshChaturthi/ganesh5.jpg"
+  ],
+  [
+    "assets/images/holi/holi.jpg",
+    "assets/images/holi/holi2.jpg",
+    "assets/images/holi/holi3.jpg",
+    "assets/images/holi/holi4.jpg",
+    "assets/images/holi/holi5.jpg"
+  ],
+  [
+    "assets/images/independence/independence.jpg",
+    "assets/images/independence/independence2.jpg",
+    "assets/images/independence/independence3.jpg",
+    "assets/images/independence/independence4.jpg",
+    "assets/images/independence/independence5.jpg"
+  ],
+  [
+    "assets/images/makarsankranti/makarsankranti.jpg",
+    "assets/images/makarsankranti/makarsankranti2.jpg",
+    "assets/images/makarsankranti/makarsankranti3.jpg",
+    "assets/images/makarsankranti/makarsankranti4.jpg",
+    "assets/images/makarsankranti/makarsankranti5.jpg"
+  ],
+  [
+    "assets/images/navratri/navratri.jpg",
+    "assets/images/navratri/navratri2.jpg",
+    "assets/images/navratri/navratri3.jpg",
+    "assets/images/navratri/navratri4.jpg",
+    "assets/images/navratri/navratri5.jpg",
+  ]
+];
