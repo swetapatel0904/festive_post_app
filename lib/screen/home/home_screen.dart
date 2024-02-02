@@ -51,7 +51,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             ),
                             child: Row(
                               children: [
-                                Image.asset("${festivalList[index]['images']}",height: 80,width: 80),
+                                Image.asset("${festivalList[index]['images']}",height: 80,width: 80,fit: BoxFit.cover),
                                 const SizedBox(
                                   width: 10,
                                 ),
