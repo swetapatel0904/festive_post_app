@@ -54,6 +54,9 @@ class _FestivalScreenState extends State<FestivalScreen> {
               String path ="/storage/emulated/0/Download/image.png";
               await File(path).writeAsBytes(byteData!.buffer.asUint8List());
               print("$path");
+              setState(() {
+                ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Data is saved")));
+              });
             }, icon: Icon(Icons.save),),
             IconButton(onPressed: () async {
               RenderRepaintBoundary render = key.currentContext!.findRenderObject() as RenderRepaintBoundary;
