@@ -23,7 +23,8 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/swetapatel0904/festive_post_app/assets/153794312/8340e6b4-adaa-4c24-9036-f2ccb139f6f7" height="400px" width="200px"/>
   <img src="https://github.com/swetapatel0904/festive_post_app/assets/153794312/874d3f4b-41c1-46a6-8572-0bcb657b924d" height="400px" width="200px"/>
   <img src="https://github.com/swetapatel0904/festive_post_app/assets/153794312/7d495655-44f4-4d2c-b97a-fba2cbb9acb5" height="400px" width="200px"/>
-https://github.com/swetapatel0904/festive_post_app/assets/153794312/d03b47f2-c525-499d-9418-652674dbe21c
+  <video
+https://github.com/swetapatel0904/festive_post_app/assets/153794312/d03b47f2-c525-499d-9418-652674dbe21c/>
 </p>
 
 
